@@ -43,6 +43,9 @@ hiiii
 ![check](https://user-images.githubusercontent.com/94949593/174590992-87ca1688-9035-4cec-9149-14435909c058.png)
 ![foreignkey](https://user-images.githubusercontent.com/94949593/174591165-749dae6e-b3f2-4b2e-98ed-8ec38cba6b14.png)
 ![like](https://user-images.githubusercontent.com/94949593/174591983-9c399180-7234-416e-aa32-3bd16ccc8ba0.png)
+![orderby](https://user-images.githubusercontent.com/94949593/174592622-a9695a89-dd71-44a4-86e6-6d31e5f6cec5.png)
+![sum](https://user-images.githubusercontent.com/94949593/174592755-604561d9-b542-4a7a-a2a4-65e37330479a.png)
+
 
 
 
